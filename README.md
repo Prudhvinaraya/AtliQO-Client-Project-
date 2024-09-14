@@ -4,6 +4,7 @@
 
 <img width="1000" alt="analysis" src="https://github.com/user-attachments/assets/b54cf22e-0620-4023-a8ce-9d4e26a15d8f">
 
+**Objective**
 
 Predicting the target group to distribute new AtliQo Bank Credit cards
 **Atliqo Bank Customer Insights and Transaction Analysis Project**

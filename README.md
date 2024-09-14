@@ -36,3 +36,8 @@ Perform statistical hypothesis testing (T-tests) to validate significant differe
 Visualizations:
 
 A comprehensive set of visualizations, including pie charts, bar graphs, and line charts, are used to illustrate findings from the dataset.
+
+
+
+**Clone this repository :** git clone https://github.com/YourGitHubUsername/atliqo-bank-analysis.git
+

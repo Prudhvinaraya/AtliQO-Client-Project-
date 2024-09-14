@@ -1,9 +1,9 @@
 
 
 # AtliQO-Client-Project-
-<img width="1000" alt="analysis" src="[https://github.com/user-attachments/assets/263d1db5-4366-4c48-8b19-afeeb3ac6eed](https://github.com/user-attachments/assets/23e4e515-d70d-4983-9433-a3ac41a0fb39)">
+<img width="1000" alt="analysis" src="(https://github.com/user-attachments/assets/23e4e515-d70d-4983-9433-a3ac41a0fb39)">
 
-
+https://github.com/user-attachments/assets/23e4e515-d70d-4983-9433-a3ac41a0fb39
 
 Predicting the target group to distribute new AtliQo Bank Credit cards
 **Atliqo Bank Customer Insights and Transaction Analysis Project**

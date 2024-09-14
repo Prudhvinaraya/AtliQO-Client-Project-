@@ -1,7 +1,9 @@
 
 
 # AtliQO-Client-Project-
-<img width="1000" alt="analysis" src="[https://github.com/user-attachments/assets/263d1db5-4366-4c48-8b19-afeeb3ac6eed](https://github.com/user-attachments/assets/b54cf22e-0620-4023-a8ce-9d4e26a15d8f)">
+
+<img width="1000" alt="analysis" src="https://github.com/user-attachments/assets/b54cf22e-0620-4023-a8ce-9d4e26a15d8f">
+
 
 https://github.com/user-attachments/assets/23e4e515-d70d-4983-9433-a3ac41a0fb39
 

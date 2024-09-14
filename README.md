@@ -41,3 +41,8 @@ A comprehensive set of visualizations, including pie charts, bar graphs, and lin
 
 **Clone this repository :** git clone https://github.com/YourGitHubUsername/atliqo-bank-analysis.git
 
+
+
+Run the notebooks **(phase_1_atliqo_bank.ipynb and phase_2_atliqo_bank.ipynb)** to explore data insights.
+
+

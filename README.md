@@ -17,3 +17,22 @@ This project focuses on analyzing customer credit profiles, transactions, and ca
 
 **4)Transaction Data Exploration:** Identify patterns and trends in customer transactions, including payment methods, product categories, and transaction volumes.
 
+**Project Components:**
+
+**Credit Profile Analysis:**
+Visualize the distribution of credit limits, annual income, and credit scores across different age groups.
+Identify potential correlations between credit limits, income, and spending behavior.
+
+**Transaction Data Analysis:**
+1)Analyze customer transactions based on various payment methods (Credit Card, Debit Card, GPay, etc.).
+
+2)Explore product categories frequently purchased by different age groups.
+
+3)Evaluate changes in transaction volume before and after marketing campaigns.
+
+**Hypothesis Testing:**
+
+Perform statistical hypothesis testing (T-tests) to validate significant differences in customer behaviors and transactions across different segments.
+Visualizations:
+
+A comprehensive set of visualizations, including pie charts, bar graphs, and line charts, are used to illustrate findings from the dataset.

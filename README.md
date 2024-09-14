@@ -46,3 +46,8 @@ A comprehensive set of visualizations, including pie charts, bar graphs, and lin
 Run the notebooks **(phase_1_atliqo_bank.ipynb and phase_2_atliqo_bank.ipynb)** to explore data insights.
 
 
+**Visual Insights:**
+<img width="310" alt="analysis" src="https://github.com/user-attachments/assets/263d1db5-4366-4c48-8b19-afeeb3ac6eed">
+
+
+

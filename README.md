@@ -1,5 +1,9 @@
 
-# AtliQO-Client-Project-
+
+# AtliQO-Client
+
+![logo of atliqo project](https://github.com/user-attachments/assets/23e4e515-d70d-4983-9433-a3ac41a0fb39)
+-Project-
 
 Predicting the target group to distribute new AtliQo Bank Credit cards
 **Atliqo Bank Customer Insights and Transaction Analysis Project**
